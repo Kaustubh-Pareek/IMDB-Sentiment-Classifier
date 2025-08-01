@@ -48,7 +48,6 @@ The Streamlit app allows users to:
 ### Clone the Repository
 ```bash
 git clone https://github.com/Kaustubh-Pareek/IMDB-Sentiment-Classifier
-cd imdb-rnn-sentiment
 ```
 
 ### Set up a Virtual Environment
@@ -91,4 +90,5 @@ The IMDB dataset used here is a preprocessed binary sentiment dataset built into
 ## 🌐 Live Demo
 
 You're welcome to explore the app by visiting the link provided below.
+
 👉 [Try Yourself](https://imdb-sentiment-classifier-kaowhvyzkasbhy2vuhlcmp.streamlit.app/)
